@@ -6,6 +6,6 @@ project.ipynb : This file is divided in to five sections which contains the code
 report.pdf - Project report
 
 
-Sequence of running the codes :
+#### Sequence of running the codes :
 
 Open and run the project.ipynb file. Google console will be appropriate to perform the tasks. Also make sure your google account have allocation of the GPUs.
