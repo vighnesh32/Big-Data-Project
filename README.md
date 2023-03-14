@@ -6,6 +6,6 @@
 2. report.pdf - Project report.
 
 
-#### Sequence of running the codes :
+#### Sequence for running the codes :
 
 1. Open and run the project.ipynb file. Google console will be appropriate to perform the tasks. Also make sure your google account have allocation of the GPUs.
